@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[README.md](https://github.com/user-attachments/files/32240375/README.md)
+>>>>>>> 13612377798ac08bf5074162c3cd767107bf4a98
 # WEEKEND GO / 周末出发
 
 > 不是告诉你城市里有什么，而是帮你把“周末去哪”的纠结变成一条可以直接出发的路线。
